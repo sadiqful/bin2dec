@@ -1,2 +1,2 @@
 # bin2dec
-Created with CodeSandbox
+A simple binary to decimal converter
